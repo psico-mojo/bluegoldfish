@@ -53,6 +53,10 @@ apps run on windows desktop any version .
 
  you can also download an entire repository as a ZIP file by clicking the "Download ZIP" button on the repository's main page.
 
+downlaod folder to desktop and drag or copy the .url files on to your desktop....they will immediately open as ICONS and are ready to activate , 
+
+double click to Go !
+
 
 
 
