@@ -10,7 +10,7 @@ WEBAPP ; Icon ; .url ;
 
 Examples of content : The apps can perform a myriad of functions and are placed on the desk top , 
 
-an example could be an ebook , a film , running an app , listening to a record or tune of your choice sitting on yr desktop  
+an example could be an ebook , a film , running an app , listening to a record or tune of your choice, playing a game,sending a email , logging in to your bank account , checking the current price of cryptocurrencies and other assets or financial instruments, exchanges, options chains , or even the weather for the week ahead... sitting on yr desktop  
 
 with its cover displayed as an icon. Data of almost any kind can be accessed any where on the web at the click of a button,
 
