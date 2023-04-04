@@ -78,7 +78,9 @@ The Adventure of the cardboard box " is a conan doyle sherlock holmes ebook...
 
 RT news ; an example of a live news service in your browser...
 
+UniSwap is a decentralized crypto exchange ...
 
+Slack52 is a padcast of The church of the subgenius.
 
 
 
