@@ -74,7 +74,11 @@ Zendog UI allows you to inter act with OPEN AI ai modle 3.5.....in order to use 
 
 Alien hominid is a game in your browser .  install "ruffle as a browser extension " to enable .swf files in your broeser.
 
-The Adventure of the cardboard box " is a conan doyle sherlock holmes ebook
+The Adventure of the cardboard box " is a conan doyle sherlock holmes ebook...
+
+RT news ; an example of a live news service in your browser..
+
+
 
 
 
