@@ -21,3 +21,15 @@ unnessesary to the performance of the task involved.
 bluegoldfish therefore provides a solution to both a communications problem and an energy consumption eqution.
 
 and makes life easy.
+
+# browser types supported...
+
+please unistall internet explorer as it doe'snt support html5 and can not run these files...
+
+all browsers tested and working are ; chromium ; brave;chrome;firefox;
+
+desktop ICONS will activate and deploy yr chosen default browser acting as the UI , user interface , 
+
+the app activates a link with it's parent based on a server on the www and opens your interface with the given object.
+
+pretty much every thing happens automatticaly by just "double click ing the ICON on yr desktop.
