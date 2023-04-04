@@ -55,6 +55,10 @@ apps run on windows desktop any version .
 
 downlaod folder to desktop and drag or copy the .url files on to your desktop....they will immediately open as ICONS and are ready to activate , 
 
+once on your desktop the file bahaves in the same way as any other file on your desktop dictated by your version of the Windows OS tou have installed 
+
+on your computer.
+
 double click to Go !
 
 
