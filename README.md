@@ -49,7 +49,9 @@ Once the file is created , the code is "obfuscated" , since the actual "app.code
 
 apps run on windows desktop any version . 
 
+# download :
 
+ you can also download an entire repository as a ZIP file by clicking the "Download ZIP" button on the repository's main page.
 
 
 
