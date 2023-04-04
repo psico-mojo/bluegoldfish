@@ -61,6 +61,17 @@ on your computer.
 
 double click to Go !
 
+# The iles included serve a variety of functions :
+
+Project Gutenburg takes you to the worlds biggest Ebook depository 
+
+Zendog UI allows you to inter act with OPEN AI ai modle 3.5.....in order to use it get a open ai api key first . 
+
+Alien hominid is a game in your browser .  install "ruffle as a browser extension " to enable .swf files in your broeser.
+
+The Adventure of the cardboard box " is a conan doyle sherlock holmes ebook
+
+
 
 
 
