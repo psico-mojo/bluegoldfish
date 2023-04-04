@@ -44,4 +44,18 @@ along with the icon creation which is "burned into the code as a 64bit datafile 
 
 Once the file is created , the code is "obfuscated" , since the actual "app.code" contained within the ICON is contained on a remote server so it would be impossible for 
 
+
+#Windows desktop
+
+apps run on windows desktop any version . 
+
+
+
+
+
+
+
+
+
+
 anyone other than the developer to have access , the files are "read only". details can be viewed in "properties" , right click on ICON , select "show properties".
