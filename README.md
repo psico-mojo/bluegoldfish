@@ -33,3 +33,15 @@ desktop ICONS will activate and deploy yr chosen default browser acting as the U
 the app activates a link with it's parent based on a server on the www and opens your interface with the given object.
 
 pretty much every thing happens automatticaly by just "double click ing the ICON on yr desktop.
+
+they can also be sent as email attachments that can be reactvated by the recipient . i.e "run on the recievers desktop" 
+
+transferred from one desktop to another any where on the www. by clicking "open on desktop" when choosing to downlaod the "attachment"
+
+you can employ a "file scanner " first to ensure no malicious code is entering your environment ,which is immposible since the files are created as type "indelible"
+
+along with the icon creation which is "burned into the code as a 64bit datafile . 
+
+Once the file is created , the code is "obfuscated" , since the actual "app.code" contained within the ICON is contained on a remote server so it would be impossible for 
+
+anyone other than the developer to have access , the files are "read only". details can be viewed in "properties" , right click on ICON , select "show properties".
