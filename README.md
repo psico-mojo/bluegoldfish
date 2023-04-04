@@ -64,4 +64,4 @@ double click to Go !
 
 
 
-anyone other than the developer to have access , the files are "read only". details can be viewed in "properties" , right click on ICON , select "show properties".
+ To veiw properties , right click on ICON , select "show properties".
