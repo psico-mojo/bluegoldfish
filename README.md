@@ -66,7 +66,7 @@ on your computer.
 
 double click to Go !
 
-# The iles included serve a variety of functions :
+# The files included serve a variety of functions :
 
 Project Gutenburg takes you to the worlds biggest Ebook depository 
 
@@ -76,7 +76,9 @@ Alien hominid is a game in your browser .  install "ruffle as a browser extensio
 
 The Adventure of the cardboard box " is a conan doyle sherlock holmes ebook...
 
-RT news ; an example of a live news service in your browser..
+RT news ; an example of a live news service in your browser...
+
+
 
 
 
