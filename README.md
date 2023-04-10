@@ -58,15 +58,14 @@ apps run on windows desktop any version .
 
  you can also download an entire repository as a ZIP file by clicking the "Download ZIP" button on the repository's main page.
 
-downlaod folder to desktop and drag or copy the .url files on to your desktop....they will immediately open as ICONS and are ready to activate , 
-
-once on your desktop the file bahaves in the same way as any other file on your desktop dictated by your version of the Windows OS tou have installed 
-
-on your computer.
+downlaod folder to desktop and drag or copy the icons on to your desktop....
 
 double click to Go !
 
+
 # The files included serve a variety of functions :
+
+
 
 Project Gutenburg takes you to the worlds biggest Ebook depository 
 
